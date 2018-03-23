@@ -1,0 +1,1 @@
+int builtecho(char **args);
